@@ -206,7 +206,10 @@ int main(int argc, char* argv[])
 	//sm3算法加密“abc”之后的结果：66c7f0f4 62eeedd9 d1f2d46b dc10e4e2 4167c487 5cf2f7a2 297da02b 8f4ba8e0
 	int len;
 	len = strlen(str);
-	SM3(str, len, Hash);
-
+	printf("明文：");
+	printf("%s\n", str);
+	printf("sm3加密结果：\n");
+	if (!SM3(str, len, Hash))
+		printf("1 false\n");
 	return 0;
 }
