@@ -213,3 +213,6 @@ int main(int argc, char* argv[])
 		printf("1 false\n");
 	return 0;
 }
+
+运行指导：
+修改str的值从而修改明文，然后直接在visual studio上运行即可得到对应明文的sm3加密结果
