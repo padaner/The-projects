@@ -1,16 +1,4 @@
-/*
-* Filename: sha256.cpp
-* Author: L.Y.
-* Brief: SHA256算法实现
-* Version: V1.0.0
-* Update log:
-*     1）20191108-20191113 V1.0.0
-*         1、初次版本。
-* TODO:
-* Attention:
-*     1）输入信息中有中文时，得到的数字指纹与使用SHA256在线加密工具得到数字指纹可能不相同。
-*        原因是中文的编码方式不同。
-*/
+
 
 #include "sha256.h"
 
