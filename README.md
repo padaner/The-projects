@@ -21,4 +21,8 @@
     （2）参考文献：https://blog.csdn.net/weixin_42700740/article/details/102667012 
 2.5  sm4算法多线程优化：
     （1）代码编写：孙飞宇
+2.6  sha512长度扩展攻击：
+    （1）sha512代码编写：孙飞宇
+    （2）长度扩展攻击实现：郝钰涵
+    （3）参考文献：https://blog.csdn.net/weixin_30908707/article/details/97998649?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-97998649-blog-24500243.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-97998649-blog-24500243.nonecase&utm_relevant_index=2
  
