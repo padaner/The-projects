@@ -25,4 +25,13 @@
     （1）sha512代码编写：孙飞宇
     （2）长度扩展攻击实现：郝钰涵
     （3）参考文献：https://blog.csdn.net/weixin_30908707/article/details/97998649?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-97998649-blog-24500243.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-97998649-blog-24500243.nonecase&utm_relevant_index=2
- 
+3.  已完成的项目：
+（1）对sm3进行长度扩展攻击
+（2）对sha256进行长度扩展攻击
+（3）构建十万个叶子结点的Merkle tree，并完成存在性证明、不存在证明
+（4）sm4算法实现
+（5）sm4算法多线程优化
+（6）sha512长度扩展攻击
+4.  未完成的项目：
+（1）对sm3进行生日攻击：采用数组存储穷举的明密文对，但因为存储空间和算法本身的运行时间限制而无法成功运行，考虑使用openssl代替自写算法进行生日攻击，但是openssl无法整成使用。
+
