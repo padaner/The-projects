@@ -25,8 +25,9 @@
     （1）sha512代码编写：孙飞宇
     （2）长度扩展攻击实现：郝钰涵
     （3）参考文献：https://blog.csdn.net/weixin_30908707/article/details/97998649?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-97998649-blog-24500243.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-97998649-blog-24500243.nonecase&utm_relevant_index=2
-2.7  对SM3进行循环展开优化
-    （1）优化实现：孙飞宇
+2.7  sm3生日攻击：
+    （1）代码编写：郝钰涵
+    （2）参考文献：https://blog.csdn.net/weixin_45688634/article/details/123292997?ops_request_misc=&request_id=&biz_id=102&utm_term=sm3%E7%94%9F%E6%97%A5%E6%94%BB%E5%87%BBpython&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-123292997.142^v35^experiment_28w_180w_v1&spm=1018.2226.3001.4187
 3.  已完成的项目：
 （1）对sm3进行长度扩展攻击
 （2）对sha256进行长度扩展攻击
@@ -34,6 +35,6 @@
 （4）sm4算法实现
 （5）sm4算法多线程优化
 （6）sha512长度扩展攻击
-4.  未完成的项目：
-（1）对sm3进行生日攻击：采用数组存储穷举的明密文对，但因为存储空间和算法本身的运行时间限制而无法成功运行，考虑使用openssl代替自写算法进行生日攻击，但是openssl无法整成使用。
-（2）其他
+（7）sm3生日攻击
+
+
