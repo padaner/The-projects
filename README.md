@@ -13,6 +13,12 @@
     （1）代码编写：郝钰涵
     （2）参考文献：
           [1]https://blog.csdn.net/u012391423/article/details
-2.3 构建十万个叶子结点的Merkle tree，并完成存在性证明、不存在证明：
+2.3  构建十万个叶子结点的Merkle tree，并完成存在性证明、不存在证明：
     （1）代码编写：郝钰涵
     （2）参考文献：https://blog.csdn.net/Ciellee/article/details/108004428?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165909493716782425172097%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165909493716782425172097&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~pc_rank_34-7-108004428-null-null.142^v35^pc_rank_34&utm_term=Merkle%20Tree%E6%9E%84%E5%BB%BA%E5%AE%9E%E7%8E%B0&spm=1018.2226.3001.4187
+2.4  sm4算法实现：
+    （1）代码编写：孙飞宇
+    （2）参考文献：https://blog.csdn.net/weixin_42700740/article/details/102667012 
+2.5  sm4算法多线程优化：
+    （1）代码编写：孙飞宇
+ 
